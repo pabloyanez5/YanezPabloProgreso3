@@ -1,6 +1,7 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using MAUI_Aeropuertos.Services;
+using Microsoft.Extensions.Logging;
 
-namespace PabloYanez_MAUI_Aeropuertos
+namespace MAUI_Aeropuertos
 {
     public static class MauiProgram
     {
@@ -15,11 +16,12 @@ namespace PabloYanez_MAUI_Aeropuertos
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
-#if DEBUG
-    		builder.Logging.AddDebug();
-#endif
+            // Configurar la base de datos
+            string dbPath = Path.Combine(FileSystem.AppDataDirectory, "AeropuertosDB.db3");
+            builder.Services.AddSingleton(new DatabaseService(dbPath));
 
             return builder.Build();
         }
     }
+
 }

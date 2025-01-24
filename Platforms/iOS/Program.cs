@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace PabloYanez_MAUI_Aeropuertos
+namespace MAUI_Aeropuertos
 {
     public class Program
     {

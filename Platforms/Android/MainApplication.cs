@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace PabloYanez_MAUI_Aeropuertos
+namespace MAUI_Aeropuertos
 {
     [Application]
     public class MainApplication : MauiApplication

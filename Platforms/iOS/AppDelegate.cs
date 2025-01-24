@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace PabloYanez_MAUI_Aeropuertos
+namespace MAUI_Aeropuertos
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

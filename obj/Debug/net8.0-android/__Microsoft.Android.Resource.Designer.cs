@@ -5,7 +5,7 @@
 //------------------------------------------------------------------------------
 using System;
 
-namespace PabloYanez_MAUI_Aeropuertos {
+namespace MAUI_Aeropuertos {
 	#pragma warning disable IDE0002
 	public partial class Resource : _Microsoft.Android.Resource.Designer.ResourceConstant {
 	}

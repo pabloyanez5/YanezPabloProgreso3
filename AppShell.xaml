@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Shell
-    x:Class="PabloYanez_MAUI_Aeropuertos.AppShell"
+    x:Class="MAUI_Aeropuertos.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:PabloYanez_MAUI_Aeropuertos"
+    xmlns:local="clr-namespace:MAUI_Aeropuertos"
     Shell.FlyoutBehavior="Disabled"
-    Title="PabloYanez_MAUI_Aeropuertos">
+    Title="MAUI_Aeropuertos">
 
     <ShellContent
         Title="Home"

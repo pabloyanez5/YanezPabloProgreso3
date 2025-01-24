@@ -2,7 +2,7 @@ using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 using System;
 
-namespace PabloYanez_MAUI_Aeropuertos
+namespace MAUI_Aeropuertos
 {
     internal class Program : MauiApplication
     {
