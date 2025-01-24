@@ -6,7 +6,14 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new TabbedPage
+            {
+                Children =
+                {
+                    new NavigationPage(new SearchPage()) { Title = "Buscar" },
+                new NavigationPage(new ListPage()) { Title = "Consultados" }
+                }
+            };
         }
     }
 }

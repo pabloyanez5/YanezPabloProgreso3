@@ -23,5 +23,8 @@ namespace MAUI_Aeropuertos.Models
         public string Email { get; set; }
   
         public string PYanez { get; set; }
+        public string FormattedDetails =>
+        $"País: {Pais}, Latitud: {Latitud}, Longitud: {Longitud}, Correo: {Email}, PYanez: {PYanez}";
+
     }
 }
