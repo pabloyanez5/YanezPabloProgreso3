@@ -1,5 +1,5 @@
 namespace MAUI_Aeropuertos.Views;
-
+using MAUI_Aeropuertos.Models;
 using MAUI_Aeropuertos.Services;
 
 public partial class ListPage : ContentPage

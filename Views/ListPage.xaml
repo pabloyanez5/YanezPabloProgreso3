@@ -6,11 +6,10 @@
                 
 
     <StackLayout Padding="20">
-        <ListView x:Name="py_lstAeropuertos">
+        <ListView x:Name="lstAeropuertos">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding Nombre}" 
-                      Detail="{Binding FormattedDetails}" />
+                    <TextCell Text="{Binding Nombre}" Detail="{Binding Pais}" />
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>

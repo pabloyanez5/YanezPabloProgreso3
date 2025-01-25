@@ -2,12 +2,17 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MAUI_Aeropuertos.Views.SearchPage"
-             Title="Buscar Aeropuerto - Pablo Yánez">
+             Title="Pablo Yánez">
 
     <StackLayout Padding="20">
-        <Entry x:Name="py_txtSearch" Placeholder="Ingrese un país" />
-        <Button Text="Buscar" x:Name="py_btnSearch" Clicked="OnSearchClicked" />
-        <Button Text="Limpiar" x:Name="py_btnClear" Clicked="OnClearClicked" />
-        <Label x:Name="py_lblResult" />
+
+        <Entry x:Name="txtSearch" Placeholder="Ingrese un país" />
+
+        <Button Text="Buscar" x:Name="btnSearch" Clicked="OnSearchClicked" />
+
+
+        <Button Text="Limpiar" x:Name="btnClear" Clicked="OnClearClicked" />
+
+        <Label x:Name="lblResult" />
     </StackLayout>
 </ContentPage>

@@ -1,5 +1,6 @@
 ﻿using MAUI_Aeropuertos.Services;
 using Microsoft.Extensions.Logging;
+using System.IO;
 
 namespace MAUI_Aeropuertos
 {
@@ -16,9 +17,8 @@ namespace MAUI_Aeropuertos
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
-            // Configurar la base de datos
-            string dbPath = Path.Combine(FileSystem.AppDataDirectory, "AeropuertosDB.db3");
-            builder.Services.AddSingleton(new DatabaseService(dbPath));
+            
+            builder.Services.AddSingleton(new DatabaseService(Path.Combine(FileSystem.AppDataDirectory, "AeropuertosDB.db3")));
 
             return builder.Build();
         }
