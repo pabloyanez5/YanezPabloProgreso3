@@ -5,9 +5,9 @@
              Title="Buscar Aeropuerto - Pablo Yánez">
 
     <StackLayout Padding="20">
-        <Entry x:Name="txtSearch" Placeholder="Ingrese un país" />
-        <Button Text="Buscar" Clicked="OnSearchClicked" />
-        <Button Text="Limpiar" Clicked="OnClearClicked" />
-        <Label x:Name="lblResult" />
+        <Entry x:Name="py_txtSearch" Placeholder="Ingrese un país" />
+        <Button Text="Buscar" x:Name="py_btnSearch" Clicked="OnSearchClicked" />
+        <Button Text="Limpiar" x:Name="py_btnClear" Clicked="OnClearClicked" />
+        <Label x:Name="py_lblResult" />
     </StackLayout>
 </ContentPage>

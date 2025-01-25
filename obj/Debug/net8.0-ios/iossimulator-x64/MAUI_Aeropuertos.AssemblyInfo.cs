@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyProductAttribute("MAUI_Aeropuertos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAUI_Aeropuertos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS17.5")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS18.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS11.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

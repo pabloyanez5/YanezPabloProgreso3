@@ -12,47 +12,47 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MAUI_Aeropuertos
-build_property.ProjectDir = D:\exaaaaaaaaaamennnnPY\MAUI_Aeropuertos\MAUI_Aeropuertos\
+build_property.ProjectDir = D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[D:/exaaaaaaaaaamennnnPY/MAUI_Aeropuertos/MAUI_Aeropuertos/App.xaml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/ULTIMATE/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Aeropuertos.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/exaaaaaaaaaamennnnPY/MAUI_Aeropuertos/MAUI_Aeropuertos/AppShell.xaml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/ULTIMATE/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Aeropuertos.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/exaaaaaaaaaamennnnPY/MAUI_Aeropuertos/MAUI_Aeropuertos/MainPage.xaml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/ULTIMATE/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Aeropuertos.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/exaaaaaaaaaamennnnPY/MAUI_Aeropuertos/MAUI_Aeropuertos/Resources/Styles/Colors.xaml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/ULTIMATE/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Aeropuertos.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/exaaaaaaaaaamennnnPY/MAUI_Aeropuertos/MAUI_Aeropuertos/Resources/Styles/Styles.xaml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/ULTIMATE/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Aeropuertos.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/exaaaaaaaaaamennnnPY/MAUI_Aeropuertos/MAUI_Aeropuertos/Views/ListPage.xaml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/ULTIMATE/Views/ListPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Aeropuertos.Views.ListPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\ListPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\ListPage.xaml
 
-[D:/exaaaaaaaaaamennnnPY/MAUI_Aeropuertos/MAUI_Aeropuertos/Views/SearchPage.xaml]
+[D:/QUINTO SEMESTRE UDLA/Progra IV/ULTIMATE/Views/SearchPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Aeropuertos.Views.SearchPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\SearchPage.xaml

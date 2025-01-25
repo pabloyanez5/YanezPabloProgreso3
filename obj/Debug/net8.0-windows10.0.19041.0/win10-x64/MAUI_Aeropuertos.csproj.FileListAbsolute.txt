@@ -181,3 +181,18 @@ D:\exaaaaaaaaaamennnnPY\MAUI_Aeropuertos\MAUI_Aeropuertos\obj\Debug\net8.0-windo
 D:\exaaaaaaaaaamennnnPY\MAUI_Aeropuertos\MAUI_Aeropuertos\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\exaaaaaaaaaamennnnPY\MAUI_Aeropuertos\MAUI_Aeropuertos\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\exaaaaaaaaaamennnnPY\MAUI_Aeropuertos\MAUI_Aeropuertos\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MAUI_Aeropuertos.csproj.AssemblyReference.cache
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MAUI_Aeropuertos.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MAUI_Aeropuertos.dll
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\MAUI_Aeropuertos.dll
+D:\QUINTO SEMESTRE UDLA\Progra IV\ULTIMATE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MAUI_Aeropuertos.pdb
